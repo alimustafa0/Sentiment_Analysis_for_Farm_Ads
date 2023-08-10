@@ -11,5 +11,3 @@ To set up the project environment, follow these steps:
 Install Dependencies: Install the required Python dependencies using the provided requirements.txt file.
 
 pip install -r requirements.txt
-
-This project is licensed under the [MIT License](LICENSE).
